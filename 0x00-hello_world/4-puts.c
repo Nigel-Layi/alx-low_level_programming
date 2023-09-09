@@ -2,6 +2,7 @@
 
 /*
  *main - Program puts text and returns nothing
+ *Return : 0
  */
 
 int main(void)

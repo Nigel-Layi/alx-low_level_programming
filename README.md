@@ -1,1 +1,1 @@
-The beginning of the C Programming journey
+0x0A. C - argc, argv
